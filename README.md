@@ -7,6 +7,7 @@ Only in one command: `npm i --save countdown-stream`
 # how can use it
 
 1 - Make \*.js file.
+
 2 - Put this example code in the file:
 ```js
 // example variable
