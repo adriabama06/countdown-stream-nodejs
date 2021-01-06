@@ -1,0 +1,25 @@
+{
+  "name": "countdown-stream",
+  "version": "0.0.1",
+  "description": "Create a countdown to anything",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p .",
+    "example": "node example.js"
+  },
+  "keywords": [
+    "stream",
+    "obs",
+    "timer",
+    "events"
+  ],
+  "author": "adriabama06",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.20"
+  }
+}
